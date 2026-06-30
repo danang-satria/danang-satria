@@ -1,33 +1,38 @@
-# Hi there, I'm Danang Satria Utomo! 👋
+# Halo, saya Danang Satria Utomo! 👋
 
-Welcome to my GitHub profile! I am a developer focused on building impactful web applications, managing cloud infrastructures, and exploring system configurations. 
+Selamat datang di profil GitHub saya! Saya adalah seorang developer yang percaya pada kekuatan kolaborasi—terutama kolaborasi antara manusia dan *Artificial Intelligence* (AI). 
 
-## 🚀 What I'm Currently Working On
-* 🗳️ **SuaraKita** - Developing a secure and efficient e-voting platform.
-* 🗺️ **SIPETAKU** - Building a mapping and data collection application for Dusun Limpak Tepus.
-* 📝 **Sinaulink** - Creating an interactive online try-out platform.
-* 💼 Crafting user interfaces and admin dashboards utilizing **Next.js**, **Vercel**, and **Clerk**.
+Bisa dibilang, **saya jago karena AI**. Dengan bantuan kecerdasan buatan, saya bisa belajar lebih cepat, memecahkan masalah sistem yang kompleks, dan mengubah ide-ide menjadi aplikasi yang nyata dan berdampak. 🤖✨
 
-## 💻 Tech Stack & Tools
+## 🚀 Proyek & Eksplorasi Saat Ini
+Berkat alur kerja yang didukung AI, saya sedang (dan telah) mengembangkan beberapa proyek, di antaranya:
+* 🗳️ **SuaraKita** - Membangun platform *e-voting* yang aman dan efisien.
+* 🗺️ **SIPETAKU** - Mengembangkan aplikasi pemetaan dan pendataan khusus untuk Dusun Limpak Tepus.
+* 📝 **Sinaulink** - Merancang platform *try-out* online yang interaktif.
+* 💻 **Admin Dashboards & Portofolio** - Meracik antarmuka pengguna (termasuk proyek desain untuk *Seblak Si Jontor*) menggunakan **Next.js**, **Vercel**, dan **Clerk**.
 
-**Development & Cloud Infrastructure:**
+## 🛠️ Tech Stack & Alat Andalan
+
+**Development & Cloud:**
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-**APIs, Networking & Utilities:**
-* **Integrations:** Payment Gateways (ShopeePay, QRIS)
-* **Networking:** Proxy protocols (Sing-box, Clash, V2ray), Charles Proxy
-* **Utilities:** WinSCP, PuTTY, SDK Platform-Tools
+**Integrasi, Jaringan & Server:**
+* **Payment Gateways:** Integrasi API (ShopeePay, QRIS).
+* **Networking & VPS:** Manajemen *cloud server*, protokol proxy (Sing-box, Clash, V2ray), Charles Proxy.
+* **Utilities:** WinSCP, PuTTY, SDK Platform-Tools.
 
-## 📊 GitHub Stats
+## 📊 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Pemrograman Teratas" />
 </div>
 
-## 📫 How to Reach Me
-* Always open to discussing web development, cloud deployments, server management, or PC hardware components!
+## 📫 Mari Terhubung
+Di luar *coding*, saya juga gemar mengulik komponen *hardware* PC (merakit prosesor, *motherboard*, PSU) dan menjelajahi dunia *game*. 
+
+Jika Anda ingin berdiskusi tentang pengembangan web, konfigurasi *server*/VPS, integrasi AI, atau sekadar obrolan seputar *hardware* PC, pintu saya selalu terbuka!
