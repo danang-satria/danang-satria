@@ -12,7 +12,7 @@
 
 ### 👨‍💻 Tentang Saya
 
-Halo! Saya Danang. Saya suka banget ngulik hal-hal baru di dunia teknologi, mulai dari bikin aplikasi web yang interaktif sampai ngatur *server* dan VPS. Jujur aja, *workflow* sehari-hari saya sangat terbantu dengan adanya AI—bikin proses belajar jadi lebih cepat dan ngerjain *project* yang rumit jadi jauh lebih sat-set! 🚀
+Halo! Saya Danang. Saya suka banget ngulik hal-hal baru di dunia teknologi, mulai dari bikin aplikasi web yang interaktif sampai ngatur *server* dan VPS. Jujur aja, *workflow* sehari-hari saya sangat terbantu dengan adanya AI bikin proses belajar jadi lebih cepat dan ngerjain *project* yang rumit jadi jauh lebih sat-set! 🚀
 
 Di luar urusan nulis kode, saya juga hobi ngerakit PC (mulai dari pasang prosesor, milih *motherboard*, sampai manajemen kabel PSU) dan lumayan sering main *game* kalau lagi butuh *refreshing*.
 
