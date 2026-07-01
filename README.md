@@ -42,9 +42,9 @@ Saya terbiasa kerja dengan *tools* dan teknologi di bawah ini:
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danang-satria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=danang-satria&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danang-satria&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=danang-satria&layout=compact&langs_count=4&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ### 📫 Mari Ngobrol!
