@@ -1,6 +1,11 @@
 <div align="center">
-  <h1>Hi there, I'm Danang Satria Utomo! 👋</h1>
-  <p><strong>Web Developer | Tech Enthusiast | Server Tweaker</strong></p>
+  <h1>
+    Hi there, I'm Danang Satria Utomo! 
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Waving hand">
+  </h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Web+Developer+💻;Tech+Enthusiast+🚀;Server+Tweaker+⚙️" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
