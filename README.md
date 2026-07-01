@@ -4,7 +4,7 @@
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Waving hand">
   </h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Web+Developer+💻;Tech+Enthusiast+🚀;Server+Tweaker+⚙️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+Tech+Enthusiast+%7C+Server+Tweaker" alt="Typing SVG" />
   </a>
 </div>
 
