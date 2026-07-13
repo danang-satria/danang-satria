@@ -1,62 +1,96 @@
 <div align="center">
-  <h1>
-    Hi there, I'm Danang Satria Utomo! 
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Waving hand">
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=250&section=header&text=DANANG&fontSize=80&desc=Web%20Developer%20%7C%20Tech%20Enthusiast%20%7C%20Server%20Tweaker&descSize=22&fontColor=ffffff" alt="Header" />
+
+  <br />
+  <br />
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Web+Developer+%7C+Tech+Enthusiast+%7C+Server+Tweaker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+interactive+web+applications;Exploring+servers+and+VPS;Learning+AI+for+better+workflows;Assembling+PCs+for+fun" alt="Typing SVG" />
   </a>
+
+  <br />
+  <br />
+
+  <img src="https://komarev.com/ghpvc/?username=danang-satria&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/danang-satria?label=Followers&style=flat&color=0e75b6" alt="Followers" />
 </div>
+
+<br />
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 About Me
 
-Halo! Saya Danang. Saya suka banget ngulik hal-hal baru di dunia teknologi, mulai dari bikin aplikasi web yang interaktif sampai ngatur *server* dan VPS. Jujur aja, *workflow* sehari-hari saya sangat terbantu dengan adanya AI bikin proses belajar jadi lebih cepat dan ngerjain *project* yang rumit jadi jauh lebih sat-set! 🚀
+```text
+name: Danang Satria Utomo
+location: Indonesia
+role: Web Developer & Tech Enthusiast
+focus:
+  - Frontend Development
+  - UI/UX Design
+  - Server & VPS Management
+  - AI Integrations
+languages: [TypeScript, JavaScript, React, Next.js]
+currently_learning: [AI Integrations, Proxy Protocols, Advanced Web Dev]
+motto: "Bikin proses belajar jadi lebih cepat dan ngerjain project yang rumit jadi jauh lebih sat-set! 🚀"
+```
 
-Di luar urusan nulis kode, saya juga hobi ngerakit PC (mulai dari pasang prosesor, milih *motherboard*, sampai manajemen kabel PSU) dan lumayan sering main *game* kalau lagi butuh *refreshing*.
+- 🖥️ Suka ngulik hal-hal baru di dunia teknologi, dari web interaktif sampai server/VPS.
+- 🚀 Sangat terbantu dengan AI untuk mempercepat proses belajar dan *development*.
+- 🛠️ Hobi merakit PC (prosesor, motherboard, manajemen kabel) di waktu luang.
+- 🎮 Suka main game kalau lagi butuh *refreshing*.
+- 👨‍💻 Saat ini sedang *develop* dan *maintain* **SuaraKita**, **SIPETAKU**, **Sinaulink**, dan **Admin Dashboards**.
 
-### 🚀 Apa yang sedang saya kerjakan?
+<br />
 
-Saat ini saya lagi sibuk *develop* dan *maintain* beberapa project:
-- 🗳️ **SuaraKita** - Platform *e-voting* yang dibangun seaman dan seefisien mungkin.
-- 🗺️ **SIPETAKU** - Aplikasi pemetaan dan pendataan yang berfokus untuk Dusun Limpak Tepus.
-- 📝 **Sinaulink** - Platform *try-out* online interaktif buat bantu proses belajar mengajar.
-- 💻 **Admin Dashboards & Portofolio** - Bikin UI/UX yang *clean* pakai **Next.js**, **Vercel**, dan **Clerk** (termasuk ngerjain desain antarmuka untuk *Seblak Si Jontor*).
+---
 
-### 🛠️ Tech Stack & Tools
-
-Saya terbiasa kerja dengan *tools* dan teknologi di bawah ini:
-
-**Frontend & Logic** <br>
-<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-
-**Backend, Cloud & Database** <br>
-<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-
-**Networking, Server & Integrations** <br>
-- 💸 **Payments:** Berpengalaman dalam integrasi API *payment gateway* (ShopeePay, QRIS).
-- 🌐 **VPS & Proxy:** Sering ngurusin *cloud server*, ngulik protokol proxy (Sing-box, Clash, V2ray), dan pakai Charles Proxy.
-- 🧰 **Utilities:** WinSCP, PuTTY, SDK Platform-Tools.
-
-### 📈 GitHub Stats
+### 🔗 Tech Arsenal
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=danang-satria&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=danang-satria&layout=compact&langs_count=4&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <h4>Languages</h4>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+
+  <h4>Tools & Frameworks</h4>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+
+  <h4>Cloud & Databases</h4>
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/VPS-%232C2D72.svg?style=for-the-badge&logo=linux&logoColor=white" alt="VPS" />
 </div>
 
-### 📫 Mari Ngobrol!
+<br />
 
-Kalau kamu pengen diskusi soal *web development*, lagi pusing ngatur *server*/VPS, mau sharing soal gimana manfaatin AI buat coding, atau sekadar ngobrolin *hardware* PC... *feel free to reach out!* Pintu selalu terbuka. 
+---
+
+### 📈 Activity Graph
 
 <div align="center">
-  <a href="https://github.com/danang-satria"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danang-satria&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+</div>
+
+<br />
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://github.com/danang-satria">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=100&section=footer" alt="Footer" />
+  
+  <h3>Thanks for visiting! 👋</h3>
+  <p>⭐ From <a href="https://github.com/danang-satria">danang-satria</a> — Happy coding! 🚀</p>
 </div>
