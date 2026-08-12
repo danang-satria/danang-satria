@@ -68,6 +68,39 @@ motto: "Bikin proses belajar jadi lebih cepat dan ngerjain project yang rumit ja
 
 ---
 
+### 🚀 Featured Projects / Portofolio
+
+<table bordercolor="#161b22">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🗳️ SuaraKita</h3>
+      <br />
+      <p align="center">Platform <em>e-voting</em> yang dibangun seaman dan seefisien mungkin.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗺️ SIPETAKU</h3>
+      <br />
+      <p align="center">Aplikasi pemetaan dan pendataan yang berfokus untuk Dusun Limpak Tepus.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 Sinaulink</h3>
+      <br />
+      <p align="center">Platform <em>try-out</em> online interaktif buat bantu proses belajar mengajar.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 Admin Dashboards</h3>
+      <br />
+      <p align="center">Desain UI/UX yang <em>clean</em> pakai Next.js, Vercel, dan Clerk. (Termasuk proyek Seblak Si Jontor).</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+---
+
 ### 📈 Activity Graph
 
 <div align="center">
