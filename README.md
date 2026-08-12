@@ -71,7 +71,7 @@ motto: "Bikin proses belajar jadi lebih cepat dan ngerjain project yang rumit ja
 ### 🚀 Featured Projects / Portofolio
 
 <div align="center">
-  <a href="https://github.com/danang-satria/KshatriyaDigital">
+  <a href="https://www.kshatriyadigital.my.id/">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=150&section=header&text=🌐%20Kunjungi%20Website%20Portofolio%20Saya!&fontSize=30&fontColor=ffffff" alt="Portfolio Banner" />
   </a>
 </div>
