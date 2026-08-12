@@ -39,7 +39,7 @@ motto: "Bikin proses belajar jadi lebih cepat dan ngerjain project yang rumit ja
 - 🚀 Sangat terbantu dengan AI untuk mempercepat proses belajar dan *development*.
 - 🛠️ Hobi merakit PC (prosesor, motherboard, manajemen kabel) di waktu luang.
 - 🎮 Suka main game kalau lagi butuh *refreshing*.
-- 👨‍💻 Saat ini sedang *develop* dan *maintain* **SuaraKita**, **SIPETAKU**, **Sinaulink**, dan **Admin Dashboards**.
+- 👨‍💻 Saat ini sedang *develop* dan *maintain* **[Kshatriya Digital](https://github.com/danang-satria/kshatriya-digital)** (Personal Portfolio) dan **[Pojok Layar](https://www.pojoklayar.my.id/)**.
 
 <br />
 
@@ -70,32 +70,11 @@ motto: "Bikin proses belajar jadi lebih cepat dan ngerjain project yang rumit ja
 
 ### 🚀 Featured Projects / Portofolio
 
-<table bordercolor="#161b22">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🗳️ SuaraKita</h3>
-      <br />
-      <p align="center">Platform <em>e-voting</em> yang dibangun seaman dan seefisien mungkin.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🗺️ SIPETAKU</h3>
-      <br />
-      <p align="center">Aplikasi pemetaan dan pendataan yang berfokus untuk Dusun Limpak Tepus.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📝 Sinaulink</h3>
-      <br />
-      <p align="center">Platform <em>try-out</em> online interaktif buat bantu proses belajar mengajar.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💻 Admin Dashboards</h3>
-      <br />
-      <p align="center">Desain UI/UX yang <em>clean</em> pakai Next.js, Vercel, dan Clerk. (Termasuk proyek Seblak Si Jontor).</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/danang-satria/KshatriyaDigital">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=150&section=header&text=🌐%20Kunjungi%20Website%20Portofolio%20Saya!&fontSize=30&fontColor=ffffff" alt="Portfolio Banner" />
+  </a>
+</div>
 
 <br />
 
